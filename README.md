@@ -1,4 +1,3 @@
-#Text.py
 
 pkg update
 
